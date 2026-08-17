@@ -2,6 +2,10 @@
 
 An interactive data science dashboard for exploring Nigeria's macroeconomic performance, historical trends, economic relationships, and inflation forecasts.
 
+## Live Demo
+
+🌐 [Launch the Nigeria Economic Intelligence Dashboard](https://nigeria-economic-intelligence.streamlit.app)
+
 ## Project Overview
 
 This project combines data collection, data engineering, exploratory analysis, statistical modelling, time-series forecasting, and interactive visualisation in a Streamlit application.
